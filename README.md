@@ -47,7 +47,7 @@ Minhas principais experiências incluem:
 
 Estou ativamente buscando oportunidades como **Analista de Sistemas - Júnior** ou **Analista de Suporte de TI**, onde eu possa aplicar meus conhecimentos em desenvolvimento, análise e suporte para contribuir com projetos desafiadores e equipes inovadoras. Estou aberto a vagas em Manaus e em formato de teletrabalho/remoto.
 
-## Projetos (Em breve!)
+## Projetos
 
 Aqui você encontrará alguns dos projetos em que estou trabalhando ou já trabalhei. Fique à vontade para explorar!
 
