@@ -55,8 +55,8 @@ Desenvolvimento de uma API Web Service (backend) integrada a um frontend para co
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorRdSeS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRdSeS&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorRdSeS&show_icons=true&theme=blue-green" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorRdSeS&layout=compact&theme=blue-green" />
 </p>
 
 ---
